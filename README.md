@@ -1,1 +1,1 @@
-It is a simple CLI Calculator 
+Welcome to the CLI Calculator! This is a simple command-line interface (CLI) calculator application built with TypeScript. It allows you to perform basic arithmetic operations like addition, subtraction, multiplication, and division directly from your command line.
